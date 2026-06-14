@@ -28,6 +28,8 @@ Desktop.ini
 # Logs and databases
 *.log
 *.sqlite
+*.txt
+
 
 # Local environmental variables (CRITICAL: Never commit secrets!)
 .env

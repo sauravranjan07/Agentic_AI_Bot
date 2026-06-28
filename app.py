@@ -1,3 +1,3 @@
-from src.langgrapghagenticai.main import load_langgraph_agentic_ai_app
+from src.langgrapghagenticai.main import load_langgraph_agenticai_app
 if __name__=="__main__":
-    load_langgraph_agentic_ai_app()
+    load_langgraph_agenticai_app()
